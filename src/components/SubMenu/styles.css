@@ -1,0 +1,13 @@
+.header-submenu {
+  height: 60px;
+  background: var(--color-bg-tertiary);
+  color: var(--color-font-secondary);
+  font-size: 16px;
+}
+
+.submenu-nav {
+  display: flex;
+  gap: 20px;
+  justify-content: left;
+  padding: 20px;
+}
